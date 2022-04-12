@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>html_01</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+	</buildSpec>
+	<natures>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>ex_09.html</name>
+			<type>1</type>
+			<location>C:/javaStudy/workspace_front/html_01/ex_09.html</location>
+		</link>
+	</linkedResources>
+</projectDescription>
